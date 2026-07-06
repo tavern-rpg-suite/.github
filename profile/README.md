@@ -21,7 +21,10 @@ A navigable world of regions, locations and rooms with AI-generated scene art, p
 
 ### ❤️ RPG Vitals (HP & Effects)
 A player HP bar with an animated ECG, optional hunger, buffs/debuffs that fade over time, a combat/enemy tracker, and optional **Level, Mana & Fatigue** — all quietly fed to the model each turn.
-→ *screenshot here*
+
+<p align="center">
+<img width="1896" height="861" alt="Preview-RPG Vitals (HP   Effects)" src="https://github.com/user-attachments/assets/832147b7-f02f-4877-8480-b3c54ca90211" />
+</p>
 
 ### 🧥 RPG Equipment & Durability
 A six-slot outfit whose gear wears down and breaks, auto-dressing from the character description, armor/attack stats, and repair from your backpack.
