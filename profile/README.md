@@ -14,7 +14,10 @@ Built to work **as a set** (they talk to each other through a shared `window.RPG
 
 ### 🗺️ RPG Map & Locations Engine
 A navigable world of regions, locations and rooms with AI-generated scene art, per-room backgrounds that swap your chat wallpaper as you travel, a drag-and-drop editor, and lore-aware descriptions.
-→ *screenshot here*
+
+<p align="center">
+<img width="1910" height="871" alt="Preview-RPG Map   Locations Engine" src="https://github.com/user-attachments/assets/d1c203c1-97b6-4caf-a08d-29c19cff4481" />
+</p>
 
 ### ❤️ RPG Vitals (HP & Effects)
 A player HP bar with an animated ECG, optional hunger, buffs/debuffs that fade over time, a combat/enemy tracker, and optional **Level, Mana & Fatigue** — all quietly fed to the model each turn.
