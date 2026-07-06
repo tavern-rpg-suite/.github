@@ -19,14 +19,14 @@ A navigable world of regions, locations and rooms with AI-generated scene art, p
 <img width="1910" height="871" alt="Preview-RPG Map   Locations Engine" src="https://github.com/user-attachments/assets/d1c203c1-97b6-4caf-a08d-29c19cff4481" />
 </p>
 
-### ❤️ RPG Vitals (HP & Effects)
+### ❤️ [RPG Vitals (HP & Effects)](https://github.com/tavern-rpg-suite/RPG-Vitals)
 A player HP bar with an animated ECG, optional hunger, buffs/debuffs that fade over time, a combat/enemy tracker, and optional **Level, Mana & Fatigue** — all quietly fed to the model each turn.
 
 <p align="center">
 <img width="1896" height="861" alt="Preview-RPG Vitals (HP   Effects)" src="https://github.com/user-attachments/assets/832147b7-f02f-4877-8480-b3c54ca90211" />
 </p>
 
-### 🧥 RPG Equipment & Durability
+### 🧥 [RPG Equipment & Durability](https://github.com/tavern-rpg-suite/RPG-Equipment-Durability)
 A six-slot outfit whose gear wears down and breaks, auto-dressing from the character description, armor/attack stats, and repair from your backpack.
 
 <p align="center">
@@ -34,7 +34,7 @@ A six-slot outfit whose gear wears down and breaks, auto-dressing from the chara
 </p>
 
 
-### 🎒 Tavern RPG Engine (Inventory & Events)
+### 🎒 [Tavern RPG Engine (Inventory & Events)](https://github.com/tavern-rpg-suite/Tavern-RPG-Engine)
 A weight-based backpack with coins, crafting, message-scanning **loot with pick-what-you-want**, usable/edible items, and player-facing events & quests.
 
 <p align="center">
