@@ -12,7 +12,7 @@ Built to work **as a set** (they talk to each other through a shared `window.RPG
 
 ## 🧩 The extensions
 
-### 🗺️ RPG Map & Locations Engine
+### 🗺️ [RPG Map & Locations Engine](https://github.com/tavern-rpg-suite/RPG-Map-Locations-Engine/tree/main) 
 A navigable world of regions, locations and rooms with AI-generated scene art, per-room backgrounds that swap your chat wallpaper as you travel, a drag-and-drop editor, and lore-aware descriptions.
 
 <p align="center">
