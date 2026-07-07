@@ -180,6 +180,14 @@ We tested the suite across **500+ messages** of real play — a friend ran **300
 
 The beautiful UI theme seen in the screenshots is [Moonlit Echoes Theme](https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme). Full credits to its creator!
 
+### 🎭 Character Cards
+
+Want to test this RPG ecosystem with characters designed specifically for deep, narrative-driven roleplay?
+Check out my official character roster on Chub:
+
+👉 [Arkana8 on Chub.ai](https://chub.ai/users/arkana8)
+
+
 ---
 
 ## 📄 License
