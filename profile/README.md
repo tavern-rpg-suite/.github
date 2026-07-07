@@ -170,6 +170,10 @@ We tested the suite across **500+ messages** of real play — a friend ran **300
 - **Preset:** CHAOS & SOUL.
 - **What the run looked like:** generated a map with scene art, geared up from random loot, stood up a cook and a weaponsmith with quests, ran status bars for our character, and kept expanding the map through edit-mode as new locations surfaced in the story.
 
+## 🎨 Note
+
+The beautiful UI theme seen in the screenshots is [Moonlit Echoes Theme](https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme). Full credits to its creator!
+
 ---
 
 ## 📄 License
