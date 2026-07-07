@@ -113,7 +113,7 @@ A flexible, model-agnostic instruction set for immersive, character-driven rolep
 <p align="center">
 <img width="1903" height="866" alt="Preview-CHAOS   SOUL" src="https://github.com/user-attachments/assets/68f25860-da3b-4e50-938f-8e8b241f3efa" />
 </p>
----
+
 
 ## 🔗 How they connect
 
