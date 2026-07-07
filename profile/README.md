@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1717" height="916" alt="Preview-Tavern-RPG-Suite" src="https://github.com/user-attachments/assets/600576d1-888d-4ef7-bb03-6542a7ec7640" />
+<img width="1717" height="916" alt="Preview-Tavern-RPG-Suite" src="https://github.com/user-attachments/assets/86f2548d-892e-4771-8b81-32143bb4e548" />
 </p>
 
 # Tavern RPG Suite
@@ -192,4 +192,4 @@ Check out my official character roster on Chub:
 
 ## 📄 License
 
-MIT © 2026 Arkana8.
+AGPLv3 © 2026 Arkana8.
