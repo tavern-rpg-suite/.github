@@ -107,6 +107,9 @@ A scene card at the top of each character message — date & weather, time, loca
 <img width="1901" height="867" alt="Preview-RPG Scene Card" src="https://github.com/user-attachments/assets/80560cb4-b5ed-411e-a233-a167674bde63" />
 </p>
 
+### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/Chaos-Soul-RP-Preset)
+A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
+
 ---
 
 ## 🔗 How they connect
