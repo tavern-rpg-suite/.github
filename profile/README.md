@@ -110,6 +110,9 @@ A scene card at the top of each character message — date & weather, time, loca
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/Chaos-Soul-RP-Preset)
 A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
 
+<p align="center">
+<img width="1903" height="866" alt="Preview-CHAOS   SOUL" src="https://github.com/user-attachments/assets/68f25860-da3b-4e50-938f-8e8b241f3efa" />
+</p>
 ---
 
 ## 🔗 How they connect
