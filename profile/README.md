@@ -44,6 +44,13 @@ Full mobile optimization is not scheduled for the immediate future, but it remai
 
 ## 🧩 The extensions
 
+### 🎒 [Tavern RPG Engine (Inventory & Events)](https://github.com/tavern-rpg-suite/Tavern-RPG-Engine)
+A weight-based backpack with coins, crafting, message-scanning **loot with pick-what-you-want**, usable/edible items, and player-facing events & quests.
+
+<p align="center">
+<img width="1909" height="875" alt="Preview-Tavern RPG Engine (Inventory   Events)" src="https://github.com/user-attachments/assets/47444e51-3606-48d2-92b7-6cc0295d872d" />
+</p>
+
 ### 🗺️ [RPG Map & Locations Engine](https://github.com/tavern-rpg-suite/RPG-Map-Locations-Engine) 
 A navigable world of regions, locations and rooms with AI-generated scene art, per-room backgrounds that swap your chat wallpaper as you travel, a drag-and-drop editor, and lore-aware descriptions.
 
@@ -64,15 +71,6 @@ A six-slot outfit whose gear wears down and breaks, auto-dressing from the chara
 <p align="center">
 <img width="1895" height="864" alt="Preview-RPG Equipment   Durability" src="https://github.com/user-attachments/assets/de39ae61-7216-4df3-a9c5-137e9d72e2c3" />
 </p>
-
-
-### 🎒 [Tavern RPG Engine (Inventory & Events)](https://github.com/tavern-rpg-suite/Tavern-RPG-Engine)
-A weight-based backpack with coins, crafting, message-scanning **loot with pick-what-you-want**, usable/edible items, and player-facing events & quests.
-
-<p align="center">
-<img width="1909" height="875" alt="Preview-Tavern RPG Engine (Inventory   Events)" src="https://github.com/user-attachments/assets/47444e51-3606-48d2-92b7-6cc0295d872d" />
-</p>
-
 
 ### 📊 [RPG Status Bar](https://github.com/tavern-rpg-suite/RPG-Status-Bar)
 Inline, AI-updated stat bars under character messages, with presets, per-character and per-chat profiles, and one-tap **AI stat design** from the character card.
