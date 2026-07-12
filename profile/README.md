@@ -149,7 +149,7 @@ Every extension ships with an in-settings **English / Русский** toggle.
 
 ## 🚀 Getting Started
 
-Nine extensions sounds like a lot, but setup is quick — and the payoff is a roleplay that quietly tracks itself. Here's the flow we actually used.
+Ten extensions sounds like a lot, but setup is quick — and the payoff is a roleplay that quietly tracks itself. Here's the flow we actually used.
 
 ### 1. Install & enable
 Install each extension (each lives in its own repo — paste its GitHub URL into **Extensions → Install Extension**), then enable them in the Extensions panel. They discover each other automatically through the shared `window.RPG` bridge, so install the whole set for the full experience, or just the pieces you want.
