@@ -34,8 +34,8 @@ Further UI/UX polish and layout optimizations for a smoother experience.~~
 🎮 **RPG Game Companion**
 Expanding the roster with brand-new playable games.
 
-🗃️ **[REDACTED] A Brand-New Extension**
-Project Name: *"Logbook & Dossier Registry"*. The feature list is currently strictly classified. 👀
+[x] ~~🗃️ **[REDACTED] A Brand-New Extension**
+Project Name: *"Logbook & Dossier Registry"*. The feature list is currently strictly classified. 👀~~
 
 📱 **Mobile UI Optimization**
 Full mobile optimization is not scheduled for the immediate future, but it remains on my radar and is sitting safely in the backlog!
@@ -108,6 +108,13 @@ A scene card at the top of each character message — date & weather, time, loca
 
 <p align="center">
 <img width="1901" height="867" alt="Preview-RPG Scene Card" src="https://github.com/user-attachments/assets/80560cb4-b5ed-411e-a233-a167674bde63" />
+</p>
+
+### 🪶 [RPG Diary](https://github.com/tavern-rpg-suite/RPG-Diary)
+A leather diary for SillyTavern that gives your roleplay a long-term memory.
+
+<p align="center">
+<img width="1902" height="865" alt="Preview- RPG-Diary" src="https://github.com/user-attachments/assets/927ed929-6b8a-490d-9d65-c016528d6a8f" />
 </p>
 
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET)
