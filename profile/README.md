@@ -4,7 +4,7 @@
 
 # Tavern RPG Suite
 
-A set of nine interconnected SillyTavern extensions that turn any roleplay into a light, immersive RPG — a living map, vitals and effects, gear that wears out, a craftable inventory, a second-model inner monologue, an inline status bar, and even minigames your character will actually play with you.
+A set of ten interconnected SillyTavern extensions that turn any roleplay into a light, immersive RPG — a living map, vitals and effects, gear that wears out, a craftable inventory, a second-model inner monologue, an inline status bar, and even minigames your character will actually play with you.
 
 Built to work **as a set** (they talk to each other through a shared `window.RPG` bridge) but every one also runs perfectly on its own. Fully **bilingual — English & Русский** — with a hand-drawn, papery aesthetic throughout.
 
