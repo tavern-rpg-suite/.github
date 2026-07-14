@@ -11,37 +11,24 @@ Built to work **as a set** (they talk to each other through a shared `window.RPG
 ---
 
 ## 🚀 Roadmap & Future Updates
-I am fully committed to actively maintaining and expanding this RPG ecosystem. Here is a sneak peek at what is currently in the backlog:
 
-[x] ~~🛒 **RPG Vendors & Workshops**
-Adding a deep crafting system, custom skills, and a brand-new "Trainer/Coach" vendor type.~~
+Actively maintained. Here's what has landed recently and what's next.
 
-[x] ~~❤️ **RPG Vitals (HP & Effects)**
-*Critical Optimization & Bug Fixes.* Investigating and resolving the infinite generation loop (freeze) that occasionally occurs after a user eats an item. Re-balancing health and fatigue mechanics, and improving the AI's accuracy in detecting food consumption events.~~
+### ✅ Shipped
 
-[x] ~~🧥 **RPG Equipment & Durability**
-Introducing item rarity tiers and refining weapon damage calculations.~~
+- **🛒 Vendors & Workshops** — deep crafting system, custom skills, and a new "Trainer/Coach" vendor type.
+- **🗃️ RPG Diary** *(was "[REDACTED] Logbook & Dossier Registry")* — long-term memory: entries, dossier, relationship tracking.
+- **🧥 Equipment & Durability** — item rarity tiers and refined weapon damage calculations.
+- **🗺️ Map & Locations Engine** — "Generating image…" indicator while the AI builds room artwork.
+- **🎒 Tavern RPG Engine** — tighter cross-module integration: a failed event now applies a debuff straight to your Vitals.
+- **❤️ Vitals & Effects** — rebalanced health and fatigue, better detection of food events, plus stability fixes.
+- **📊 Status Bar** — UI/UX polish and layout optimizations.
 
-[x] ~~🗺️ **RPG Map & Locations Engine**
-Adding a visual "Generating image..." status indicator while the AI builds the room artwork to improve UX.~~
+### 🔜 Next up
 
-[x] ~~🎒 **Tavern RPG Engine (Inventory & Events)**
-Tighter cross-module integration: Failing a random event will now automatically apply a debuff directly to your Vitals.~~
-
-[x] ~~📊 **RPG Status Bar**
-Further UI/UX polish and layout optimizations for a smoother experience.~~
-
-🎮 **RPG Game Companion**
-Expanding the roster with brand-new playable games.
-
-[x] ~~🗃️ **[REDACTED] A Brand-New Extension**
-Project Name: *"Logbook & Dossier Registry"*. The feature list is currently strictly classified. 👀~~
-
-📱 **Mobile UI Optimization**
-Full mobile optimization is not scheduled for the immediate future, but it remains on my radar and is sitting safely in the backlog!
-
-🐛 **Ongoing Bug Fixes & Refactoring**
-Squashing minor bugs, and optimizing code performance
+- **🎮 Game Companion** — expanding the roster with new playable games.
+- **📱 Mobile UI** — on the radar, not scheduled yet.
+- **🐛 Ongoing** — bug fixes, refactoring, performance.
 
 ---
 
