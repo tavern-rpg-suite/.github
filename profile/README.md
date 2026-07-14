@@ -32,6 +32,21 @@ Actively maintained. Here's what has landed recently and what's next.
 
 ---
 
+## 🌱 New here? Start with one of these
+
+Every module runs on its own — install only what you want.
+Not sure where to begin? These two are the easiest way in:
+
+**🗺️ [Map & Locations Engine](https://github.com/tavern-rpg-suite/RPG-Map-Locations-Engine)**
+Builds a world from your character card and swaps your chat background as you travel.
+> ↳ Add **🎒 [Tavern RPG Engine](https://github.com/tavern-rpg-suite/Tavern-RPG-Engine)** for the full game layer — inventory, crafting and events. It's also where the map's keys and lockpicks live, so locked rooms become properly openable.
+
+**🪶 [RPG Diary](https://github.com/tavern-rpg-suite/RPG-Diary)**
+Long-term memory — your character stops forgetting who people are.
+> ↳ Pair it with **🗞️ [Scene Card](https://github.com/tavern-rpg-suite/RPG-Scene-Card)** and the diary starts writing itself: it picks up in-game dates and logs an entry whenever a new day begins.
+
+---
+
 ## 🧩 The extensions
 
 ### 🎒 [Tavern RPG Engine (Inventory & Events)](https://github.com/tavern-rpg-suite/Tavern-RPG-Engine)
