@@ -119,6 +119,13 @@ A leather diary for SillyTavern that gives your roleplay a long-term memory.
 <img width="1902" height="865" alt="Preview- RPG-Diary" src="https://github.com/user-attachments/assets/927ed929-6b8a-490d-9d65-c016528d6a8f" />
 </p>
 
+### 🎭 [RPG Living Scene](https://github.com/tavern-rpg-suite/RPG-Living-Scene)
+A SillyTavern extension that gives your group chats a background.
+
+<p align="center">
+<img width="1898" height="873" alt="RPG-Living-Scene - preview" src="https://github.com/user-attachments/assets/6747279d-a001-446b-a3b4-4b0f798e4f7f" />
+</p>
+
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET)
 A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
 
