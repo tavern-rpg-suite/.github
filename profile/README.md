@@ -4,7 +4,7 @@
 
 # Tavern RPG Suite
 
-A set of ten interconnected SillyTavern extensions that turn any roleplay into a light, immersive RPG — a living map, vitals and effects, gear that wears out, a craftable inventory, a second-model inner monologue, an inline status bar, and even minigames your character will actually play with you.
+A set of interconnected SillyTavern extensions that turn any roleplay into a light, immersive RPG—with a living map, vitals and status effects, gear that wears out, a craftable inventory, a second-model inner monologue, an inline status bar, and even minigames your characters will actually play with you.
 
 Built to work **as a set** (they talk to each other through a shared `window.RPG` bridge) but every one also runs perfectly on its own. Fully **bilingual — English & Russian** — with a hand-drawn, papery aesthetic throughout.
 
@@ -150,8 +150,6 @@ For AI features (art, stat design, loot, combat, disposition, etc.) open the ext
 Every extension ships with an in-settings **English / Русский** toggle.
 
 ## 🚀 Getting Started
-
-Ten extensions sounds like a lot, but setup is quick — and the payoff is a roleplay that quietly tracks itself. Here's the flow we actually used.
 
 ### 1. Install & enable
 Install each extension (each lives in its own repo — paste its GitHub URL into **Extensions → Install Extension**), then enable them in the Extensions panel. They discover each other automatically through the shared `window.RPG` bridge, so install the whole set for the full experience, or just the pieces you want.
