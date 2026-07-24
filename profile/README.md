@@ -12,27 +12,13 @@ Built to work **as a set** (they talk to each other through a shared `window.RPG
 
 ## 🚀 Roadmap & Future Updates
 
-Actively maintained. Here's what has landed recently and what's next.
-
-### ✅ Shipped
-
-- **🛒 Vendors & Workshops** — deep crafting system, custom skills, and a new "Trainer/Coach" vendor type.
-- **🗃️ RPG Diary** *(was "[REDACTED] Logbook & Dossier Registry")* — long-term memory: entries, dossier, relationship tracking.
-- **🧥 Equipment & Durability** — item rarity tiers and refined weapon damage calculations.
-- **🗺️ Map & Locations Engine** — "Generating image…" indicator while the AI builds room artwork.
-- **🎒 Tavern RPG Engine** — tighter cross-module integration: a failed event now applies a debuff straight to your Vitals.
-- **❤️ Vitals & Effects** — rebalanced health and fatigue, better detection of food events, plus stability fixes.
-- **📊 Status Bar** — UI/UX polish and layout optimizations.
-
-### 🔜 Next up
-
 - **🎮 Game Companion** — expanding the roster with new playable games.
 - **📱 Mobile UI** — on the radar, not scheduled yet.
 - **🐛 Ongoing** — bug fixes, refactoring, performance.
 
 ---
 
-## 🌱 New here? Start with one of these
+## 🌱 Start with one of these
 
 Every module runs on its own — install only what you want.
 Not sure where to begin? These two are the easiest way in:
