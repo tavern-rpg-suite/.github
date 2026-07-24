@@ -112,7 +112,7 @@ A SillyTavern extension that gives your group chats a background.
 <img width="1898" height="873" alt="RPG-Living-Scene - preview" src="https://github.com/user-attachments/assets/6747279d-a001-446b-a3b4-4b0f798e4f7f" />
 </p>
 
-### 📱 RPG-Phone [RPG-Phone](https://github.com/tavern-rpg-suite/RPG-Phone)
+### 📱 [RPG-Phone](https://github.com/tavern-rpg-suite/RPG-Phone)
 A SillyTavern extension that adds a side messenger to your roleplay — a magical phone that links your world to theirs.
 
 <p align="center">
