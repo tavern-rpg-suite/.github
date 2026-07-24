@@ -112,6 +112,13 @@ A SillyTavern extension that gives your group chats a background.
 <img width="1898" height="873" alt="RPG-Living-Scene - preview" src="https://github.com/user-attachments/assets/6747279d-a001-446b-a3b4-4b0f798e4f7f" />
 </p>
 
+### 📱 RPG-Phone [RPG-Phone](https://github.com/tavern-rpg-suite/RPG-Phone)
+A SillyTavern extension that adds a side messenger to your roleplay — a magical phone that links your world to theirs.
+
+<p align="center">
+<img width="1887" height="868" alt="RPG-Phone" src="https://github.com/user-attachments/assets/1b19a536-01b0-48bf-ba8d-5b446bcf6277" />
+</p>
+
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET)
 A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
 
