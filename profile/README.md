@@ -119,6 +119,13 @@ A SillyTavern extension that adds a side messenger to your roleplay — a magica
 <img width="1887" height="868" alt="RPG-Phone" src="https://github.com/user-attachments/assets/1b19a536-01b0-48bf-ba8d-5b446bcf6277" />
 </p>
 
+### 🚪 [Tavern-Doors](https://github.com/tavern-rpg-suite/Tavern-Doors)
+A SillyTavern extension that lets you select any part of your roleplay, fold it into a compact factual summary, and keep that summary exactly where the original messages were.
+
+<p align="center">
+<img width="1893" height="879" alt="Screenshot_19" src="https://github.com/user-attachments/assets/3c1fbde6-522f-496d-8f21-cf625a10401d" />
+</p>
+
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET) 
 A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
 
