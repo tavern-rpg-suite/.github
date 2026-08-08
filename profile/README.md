@@ -63,7 +63,7 @@ A six-slot outfit whose gear wears down and breaks, auto-dressing from the chara
 <img width="1895" height="864" alt="Preview-RPG Equipment   Durability" src="https://github.com/user-attachments/assets/de39ae61-7216-4df3-a9c5-137e9d72e2c3" />
 </p>
 
-### 📊 [RPG Status Bar](https://github.com/tavern-rpg-suite/RPG-Status-Bar)
+### 📊 [RPG Status Bar + Bonds](https://github.com/tavern-rpg-suite/RPG-Status-Bar-Bonds)
 Inline, AI-updated stat bars under character messages, with presets, per-character and per-chat profiles, and one-tap **AI stat design** from the character card.
 
 <p align="center">
