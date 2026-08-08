@@ -64,7 +64,7 @@ A six-slot outfit whose gear wears down and breaks, auto-dressing from the chara
 </p>
 
 ### 📊 [RPG Status Bar + Bonds](https://github.com/tavern-rpg-suite/RPG-Status-Bar-Bonds)
-Inline, AI-updated stat bars under character messages, with presets, per-character and per-chat profiles, and one-tap **AI stat design** from the character card.
+Inline, AI-updated stat bars under character messages, with presets, per-character and per-chat profiles, and one-tap **AI stat design** from the character card. A relationship system that makes characters remember how they feel about you and act accordingly.
 
 <p align="center">
 <img width="1895" height="872" alt="Preview-RPG Status Bar" src="https://github.com/user-attachments/assets/29df674c-e348-440d-9ce2-6cb9201e78c7" />
