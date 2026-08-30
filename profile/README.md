@@ -133,64 +133,46 @@ A flexible, model-agnostic instruction set for immersive, character-driven rolep
 <img width="1903" height="866" alt="Preview-CHAOS   SOUL" src="https://github.com/user-attachments/assets/68f25860-da3b-4e50-938f-8e8b241f3efa" />
 </p>
 
-## 🔗 How they connect
 
-They share a small global bridge, `window.RPG`, so the pieces cooperate when installed together:
+## 📦 Setup & Getting Started
 
-- **Inventory → Map:** keys from your backpack open locked doors.
-- **Inventory → Vitals:** eating food from your backpack restores HP / satiety.
-- **Equipment → Vitals:** worn armor soaks damage and your weapon sets attack.
-- **Map → chat:** entering a room can swap the chat background to that room's art.
-- **Vendors → Inventory & Equipment:** repair gear with a backpack material; buy/sell for coins.
-- **Vendors → Vitals:** quest rewards can arrive as effects.
+**1. Install what you want**  
+In SillyTavern, go to **Extensions → Install Extension** and paste the GitHub URL of the extension you want. Each module has its **own repository** and can be used independently. Install the whole suite for the full experience, or mix and match.
 
-Each module checks for the others with optional chaining, so nothing breaks if you only install some.
+Once enabled, the extensions automatically discover each other through the shared `window.RPG` bridge.
 
-## 📦 Installing (each extension)
+**2. Choose your language**  
+Every extension includes an in-settings **English / Русский** toggle.
 
-In SillyTavern: **Extensions → Install Extension**, paste the extension's GitHub URL, then enable it under **Extensions**. Each extension lives in its **own repository** with `manifest.json` in the root.
+**3. Add a model for AI features**  
+Extensions that use AI have their own **API URL / Key / Model** settings for things like art, loot, stats, quests, vendors, combat and other background tasks.
 
-For AI features (art, stat design, loot, combat, disposition, etc.) open the extension's settings and fill in an OpenAI-compatible **URL / API key / model**. A small, fast model works well; the suite defaults to `google/gemma-4-31b-it`.
+A small, fast model is recommended. We used `google/gemma-4-31b-it` through **OpenRouter** for the entire suite. Your main story model remains completely separate — configure it in SillyTavern as usual.
 
-## 🌍 Language
+> 💡 **Recommended setup:** use your strongest model for the story and a small, inexpensive model for the extensions. There is little reason to spend premium tokens on a stat update or a dice roll.
 
-Every extension ships with an in-settings **English / Русский** toggle.
+**4. Start playing**  
+Build a starting area with **Map**, add gear through **Inventory & Equipment**, populate the world with **Vendors & Workshops**, and enable **Vitals** if you want character condition and combat information.
 
-## 🚀 Getting Started
+As your story develops, new locations can be added directly through the Map's **edit mode**, allowing the world to grow alongside the roleplay.
 
-### 1. Install & enable
-Install each extension (each lives in its own repo — paste its GitHub URL into **Extensions → Install Extension**), then enable them in the Extensions panel. They discover each other automatically through the shared `window.RPG` bridge, so install the whole set for the full experience, or just the pieces you want.
+**⚙️ Handy defaults**
+- Use a cheap model for extension tasks and keep your main story model separate.
+- Enable **injection** for Scene Card and Vitals so the story model stays aware of the current world state.
+- Enable heavier systems such as combat, mana/fatigue or background saving only when you actually need them.
 
-### 2. Give the extensions a model
-Most extensions have their own **API URL / Key / Model** in settings (used for scene art, loot, quests, stats, vendor logic, game disposition, and so on). We ran all of them on the default **`google/gemma-4-31b-it`** — small, fast and cheap, which is exactly what these background tasks want. One endpoint covers all of them; we used **OpenRouter**.
+## 🧪 Field Notes
 
-Your **main story model** is separate — set it in SillyTavern as usual, together with your preset. We played on **DeepSeek V4 Pro** and **Gemini 2.5 Pro** with the **CHAOS & SOUL** preset.
+The suite has been tested through **500+ messages of real roleplay**, including **300+ messages** run on DeepSeek alone.
 
-> **Sweet spot:** a strong model for the *story* + a tiny cheap model (Gemma) for the *extensions*. You're not paying premium rates for a stat update or a dice roll.
+Our test setup used:
 
-### 3. Your first session — a walkthrough
-Roughly how our playthrough opened:
-
-1. **Build the world (Map).** Create your starting region/location, generate scene art right from the panel, and let the locations engine help with descriptions. Now you have a place to *be*.
-2. **Gear up (Inventory + Equipment).** Open the backpack, take the starting loot, and put on the armor you're handed — equipment feeds defense/attack into Vitals automatically.
-3. **Populate it (Vendors & Workshops).** Create a couple of vendors — we started with a **cook** and a **weaponsmith** — and generate a job or two. Now the world has people and goals.
-4. **Set your character up (Status Bar / Vitals).** Give your character their status bars (we tuned a set for our lead, *Irina*) and switch on HP/effects if you want stakes. Then just start roleplaying.
-5. **Let it grow.** As the story and quests moved along, the model kept pointing us at **new locations** — we added those on the fly through the Map's **edit mode** and travelled to them, expanding the territory as we played. The map grew with the story.
-
-### 4. Handy defaults
-- Keep the extensions on a cheap model; keep your story model as strong as you like.
-- Turn **injection** on for Scene Card and Vitals so your main model stays aware of time, place and condition.
-- Flip heavier features (combat, mana/fatigue, save-to-background) on only when a scene needs them.
-
-## 🧪 Field notes
-
-We tested the suite across **500+ messages** of real play — a friend ran **300+** of those on DeepSeek alone — so the pieces have been exercised *together*, not just in isolation.
-
-- **Story models:** DeepSeek V4 Pro · Gemini 2.5 Pro.
-- **Extensions model:** `google/gemma-4-31b-it`.
+- **Story models:** DeepSeek V4 Pro · Gemini 2.5 Pro
+- **Extensions model:** `google/gemma-4-31b-it`
 - **Endpoint:** OpenRouter
-- **Preset:** CHAOS & SOUL.
-- **What the run looked like:** generated a map with scene art, geared up from random loot, stood up a cook and a weaponsmith with quests, ran status bars for our character, and kept expanding the map through edit-mode as new locations surfaced in the story.
+- **Preset:** [CHAOS & SOUL](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET)
+
+The systems were tested **together as a suite** — generating maps and scene art, handling loot and equipment, creating vendors and quests, tracking character vitals, and expanding the map as new locations appeared during play.
 
 ## 🎨 Note
 
