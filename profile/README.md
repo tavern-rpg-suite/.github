@@ -116,7 +116,7 @@ A SillyTavern extension that gives your group chats a background.
 A SillyTavern extension that adds a side messenger to your roleplay — a magical phone that links your world to theirs.
 
 <p align="center">
-<img width="1672" height="941" alt="f1c8bf6d-dd7b-47d5-9579-c8536c12d806" src="https://github.com/user-attachments/assets/440515b9-12fe-4714-8781-21429a7d4b57" />
+<img width="1672" height="941" alt="f1c8bf6d-dd7b-47d5-9579-c8536c12d8068" src="https://github.com/user-attachments/assets/c532a5ca-a759-4379-90ca-209c358d36ed" />
 </p>
 
 ### 🚪 [Tavern-Doors](https://github.com/tavern-rpg-suite/Tavern-Doors)
