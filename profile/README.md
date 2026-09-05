@@ -39,28 +39,28 @@ Long-term memory — your character stops forgetting who people are.
 A weight-based backpack with coins, crafting, message-scanning **loot with pick-what-you-want**, usable/edible items, and player-facing events & quests.
 
 <p align="center">
-<img width="1909" height="875" alt="Preview-Tavern RPG Engine (Inventory   Events)" src="https://github.com/user-attachments/assets/47444e51-3606-48d2-92b7-6cc0295d872d" />
+<img width="1774" height="887" alt="b1b0077b-12d7-4f94-8d03-b765e1dd51d7" src="https://github.com/user-attachments/assets/fbad5721-d46a-4951-9f18-864ef8f98051" />
 </p>
 
 ### 🗺️ [RPG Map & Locations Engine](https://github.com/tavern-rpg-suite/RPG-Map-Locations-Engine) 
 A navigable world of regions, locations and rooms with AI-generated scene art, per-room backgrounds that swap your chat wallpaper as you travel, a drag-and-drop editor, and lore-aware descriptions.
 
 <p align="center">
-<img width="1910" height="871" alt="Preview-RPG Map   Locations Engine" src="https://github.com/user-attachments/assets/d1c203c1-97b6-4caf-a08d-29c19cff4481" />
+<img width="1774" height="887" alt="81201567-69de-461e-b890-770c98ac02a28" src="https://github.com/user-attachments/assets/ebc0432e-2f9a-4984-a826-0f103f460d77" />
 </p>
 
 ### ❤️ [RPG Vitals (HP & Effects)](https://github.com/tavern-rpg-suite/RPG-Vitals)
 A player HP bar with an animated ECG, optional hunger, buffs/debuffs that fade over time, a combat/enemy tracker, and optional **Level, Mana & Fatigue** — all quietly fed to the model each turn.
 
 <p align="center">
-<img width="1896" height="861" alt="Preview-RPG Vitals (HP   Effects)" src="https://github.com/user-attachments/assets/832147b7-f02f-4877-8480-b3c54ca90211" />
+<img width="1672" height="941" alt="9b7200f2-02c4-490a-a6cf-02b85e4ce8ab" src="https://github.com/user-attachments/assets/dabb96b5-7c00-4708-b9eb-5d30aa8704ad" />
 </p>
 
 ### 🧥 [RPG Equipment & Durability](https://github.com/tavern-rpg-suite/RPG-Equipment-Durability)
 A six-slot outfit whose gear wears down and breaks, auto-dressing from the character description, armor/attack stats, and repair from your backpack.
 
 <p align="center">
-<img width="1895" height="864" alt="Preview-RPG Equipment   Durability" src="https://github.com/user-attachments/assets/de39ae61-7216-4df3-a9c5-137e9d72e2c3" />
+<img width="1717" height="916" alt="image" src="https://github.com/user-attachments/assets/fe182c75-cf96-4346-9ded-6b602163947b" />
 </p>
 
 ### 📊 [RPG Status Bar + Bonds](https://github.com/tavern-rpg-suite/RPG-Status-Bar-Bonds)
@@ -88,14 +88,14 @@ Eight real games (chess, blackjack, poker, battleship, and more) your character 
 Create vendors and workshops (blacksmith, tailor, apothecary…), buy & sell for coins, take jobs with rewards, and **repair broken gear** with materials from your backpack — the connective tissue between inventory and equipment.
 
 <p align="center">
-<img width="1903" height="870" alt="Preview-RPG Vendors   Workshops" src="https://github.com/user-attachments/assets/14ef3836-563c-4416-bfaa-b8f848e5dee1" />
+<img width="1774" height="887" alt="c94ee6d6-8ae8-488b-8054-e6d1759f8bda" src="https://github.com/user-attachments/assets/09e55f87-e10e-46d6-8fd4-77b80ea309f3" />
 </p>
 
 ### 🗞️ [RPG Scene Card](https://github.com/tavern-rpg-suite/RPG-Scene-Card)
 A scene card at the top of each character message — date & weather, time, location and the NPCs present — analysed by a **secondary model** and optionally injected into the main one.
 
 <p align="center">
-<img width="1901" height="867" alt="Preview-RPG Scene Card" src="https://github.com/user-attachments/assets/80560cb4-b5ed-411e-a233-a167674bde63" />
+<img width="1672" height="941" alt="0cdd09ca-e799-4a05-bb40-695a7211c79a (1)" src="https://github.com/user-attachments/assets/cb31d7a8-bc83-4985-b82d-c03b8a8157f1" />
 </p>
 
 ### 🪶 [RPG Diary](https://github.com/tavern-rpg-suite/RPG-Diary)
@@ -123,14 +123,14 @@ A SillyTavern extension that adds a side messenger to your roleplay — a magica
 A SillyTavern extension that lets you select any part of your roleplay, fold it into a compact factual summary, and keep that summary exactly where the original messages were.
 
 <p align="center">
-<img width="1893" height="879" alt="Screenshot_19" src="https://github.com/user-attachments/assets/3c1fbde6-522f-496d-8f21-cf625a10401d" />
+<img width="1672" height="941" alt="c847689c-4596-4f9d-a4ce-f65964dd220d" src="https://github.com/user-attachments/assets/e104fa07-4c23-496a-90ad-dc8eb1751832" />
 </p>
 
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET) 
 A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
 
 <p align="center">
-<img width="1903" height="866" alt="Preview-CHAOS   SOUL" src="https://github.com/user-attachments/assets/68f25860-da3b-4e50-938f-8e8b241f3efa" />
+<img width="1536" height="1024" alt="fd754dbd-20de-419b-abf4-f61491d2ec32" src="https://github.com/user-attachments/assets/8dd06370-73b1-4f8b-906e-9713bdd7001f" />
 </p>
 
 
