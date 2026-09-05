@@ -102,7 +102,7 @@ A scene card at the top of each character message — date & weather, time, loca
 A leather diary for SillyTavern that gives your roleplay a long-term memory.
 
 <p align="center">
-<img width="1902" height="865" alt="Preview- RPG-Diary" src="https://github.com/user-attachments/assets/927ed929-6b8a-490d-9d65-c016528d6a8f" />
+<img width="1774" height="887" alt="b3275182-71c9-4eca-b01e-16618888cb74" src="https://github.com/user-attachments/assets/f3dfde0e-17e2-4c2a-b72e-c717c08e19ed" />
 </p>
 
 ### 🎭 [RPG Living Scene](https://github.com/tavern-rpg-suite/RPG-Living-Scene)
