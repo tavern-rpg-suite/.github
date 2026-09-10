@@ -67,7 +67,7 @@ A six-slot outfit whose gear wears down and breaks, auto-dressing from the chara
 Inline, AI-updated stat bars under character messages, with presets, per-character and per-chat profiles, and one-tap **AI stat design** from the character card. A relationship system that makes characters remember how they feel about you and act accordingly.
 
 <p align="center">
-<img width="1671" height="941" alt="701ddadc-30f1-4def-b287-6d0f93f66296" src="https://github.com/user-attachments/assets/19816328-af3c-4e12-93ab-a382835ed422" />
+<img width="1671" height="941" alt="701ddadc-30f1-4def-b287-6d0f93f662962" src="https://github.com/user-attachments/assets/267078c5-3491-4eec-8bae-f6f43656e7de" />
 </p>
 
 ### 💭 [Dual-Model Thoughts](https://github.com/tavern-rpg-suite/Dual-Model-Thoughts)
