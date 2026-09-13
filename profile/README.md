@@ -133,6 +133,13 @@ A SillyTavern extension that lets you select any part of your roleplay, fold it 
 <img width="1672" height="941" alt="c847689c-4596-4f9d-a4ce-f65964dd220d" src="https://github.com/user-attachments/assets/e104fa07-4c23-496a-90ad-dc8eb1751832" />
 </p>
 
+### 🔍 [Character Lens](https://github.com/tavern-rpg-suite/Character-Lens)
+Turns a character card into a performance guide, so cold characters stop sounding identical.
+
+<p align="center">
+<img width="1671" height="941" alt="a1a13f98-47fa-4719-bcf6-b8010b748ece" src="https://github.com/user-attachments/assets/7925cfc6-6eef-4a8c-9f6a-0738b7e244f4" />
+</p>
+
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET) 
 A flexible, model-agnostic instruction set for immersive, character-driven roleplay: natural pacing, rich sensory detail, consistent logic — and a layered toggle system that scales from heavy budget models up to top-tier ones. 💕
 
