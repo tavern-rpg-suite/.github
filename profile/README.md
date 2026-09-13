@@ -33,7 +33,14 @@ Long-term memory — your character stops forgetting who people are.
 
 ---
 
-## 🧩 The extensions
+## The extensions
+
+### 🧩 [Tavern RPG Suite — Hub](https://github.com/tavern-rpg-suite/Tavern-RPG-Suite-Hub)
+One panel that installs, updates and connects the whole suite.
+
+<p align="center">
+<img width="1671" height="941" alt="3253c8ce-5854-4ed0-8e9b-ea4e86a1acdd" src="https://github.com/user-attachments/assets/5aff94d5-b33c-4712-9ede-c095cf818e19" />
+</p>
 
 ### 🎒 [Tavern RPG Engine (Inventory & Events)](https://github.com/tavern-rpg-suite/Tavern-RPG-Engine)
 A weight-based backpack with coins, crafting, message-scanning **loot with pick-what-you-want**, usable/edible items, and player-facing events & quests.
