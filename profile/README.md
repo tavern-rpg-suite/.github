@@ -10,15 +10,9 @@ Built to work **as a set** (they talk to each other through a shared `window.RPG
 
 ---
 
-## 🚀 Roadmap & Future Updates
-
-- **🎮 Game Companion** — expanding the roster with new playable games.
-- **📱 Mobile UI** — on the radar, not scheduled yet.
-- **🐛 Ongoing** — bug fixes, refactoring, performance.
-
----
-
 ## 🌱 Start with one of these
+
+> ↳ 🧩 [Tavern RPG Suite — Hub](https://github.com/tavern-rpg-suite/Tavern-RPG-Suite-Hub) - One panel that installs, updates and connects the whole suite.
 
 Every module runs on its own — install only what you want.
 Not sure where to begin? These two are the easiest way in:
@@ -112,11 +106,11 @@ A leather diary for SillyTavern that gives your roleplay a long-term memory.
 <img width="1774" height="887" alt="b3275182-71c9-4eca-b01e-16618888cb74" src="https://github.com/user-attachments/assets/f3dfde0e-17e2-4c2a-b72e-c717c08e19ed" />
 </p>
 
-### 🎭 [RPG Living Scene](https://github.com/tavern-rpg-suite/RPG-Living-Scene)
-A SillyTavern extension that gives your group chats a background.
+### 🚪 [Tavern-Doors](https://github.com/tavern-rpg-suite/Tavern-Doors)
+A SillyTavern extension that lets you select any part of your roleplay, fold it into a compact factual summary, and keep that summary exactly where the original messages were.
 
 <p align="center">
-<img width="1898" height="873" alt="RPG-Living-Scene - preview" src="https://github.com/user-attachments/assets/6747279d-a001-446b-a3b4-4b0f798e4f7f" />
+<img width="1672" height="941" alt="c847689c-4596-4f9d-a4ce-f65964dd220d" src="https://github.com/user-attachments/assets/e104fa07-4c23-496a-90ad-dc8eb1751832" />
 </p>
 
 ### 📱 [RPG-Phone](https://github.com/tavern-rpg-suite/RPG-Phone)
@@ -126,11 +120,11 @@ A SillyTavern extension that adds a side messenger to your roleplay — a magica
 <img width="1672" height="941" alt="f1c8bf6d-dd7b-47d5-9579-c8536c12d8068" src="https://github.com/user-attachments/assets/c532a5ca-a759-4379-90ca-209c358d36ed" />
 </p>
 
-### 🚪 [Tavern-Doors](https://github.com/tavern-rpg-suite/Tavern-Doors)
-A SillyTavern extension that lets you select any part of your roleplay, fold it into a compact factual summary, and keep that summary exactly where the original messages were.
+### 🎭 [RPG Living Scene](https://github.com/tavern-rpg-suite/RPG-Living-Scene)
+A SillyTavern extension that gives your group chats a background.
 
 <p align="center">
-<img width="1672" height="941" alt="c847689c-4596-4f9d-a4ce-f65964dd220d" src="https://github.com/user-attachments/assets/e104fa07-4c23-496a-90ad-dc8eb1751832" />
+<img width="1849" height="851" alt="d457aa37-1146-41e4-beb8-10a8d4c799e7" src="https://github.com/user-attachments/assets/461287ff-affe-4dce-a490-50e0885e7c52" />
 </p>
 
 ### 🔍 [Character Lens](https://github.com/tavern-rpg-suite/Character-Lens)
