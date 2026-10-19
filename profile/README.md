@@ -127,11 +127,25 @@ A SillyTavern extension that gives your group chats a background.
 <img width="1849" height="851" alt="d457aa37-1146-41e4-beb8-10a8d4c799e7" src="https://github.com/user-attachments/assets/461287ff-affe-4dce-a490-50e0885e7c52" />
 </p>
 
+### 🐇 [RPG Dungeons — The Rabbit Hole](https://github.com/tavern-rpg-suite/RPG-Dungeons)
+A roguelike inside your character's dreams: six rabbit holes, six relics from their life and six companions from their world; the roleplay itself stays untouched.
+
+<p align="center">
+<img width="1672" height="941" alt="de156a8d-472b-4dd7-9817-989e82a1cd87" src="https://github.com/user-attachments/assets/0c323457-4654-42c4-ab72-aae16314a4c3" />
+</p>
+
 ### 🔍 [Character Lens](https://github.com/tavern-rpg-suite/Character-Lens)
 Turns a character card into a performance guide, so cold characters stop sounding identical.
 
 <p align="center">
 <img width="1671" height="941" alt="a1a13f98-47fa-4719-bcf6-b8010b748ece" src="https://github.com/user-attachments/assets/7925cfc6-6eef-4a8c-9f6a-0738b7e244f4" />
+</p>
+
+### 👑 [Tavern Suite Menu](https://github.com/tavern-rpg-suite/Tavern-Suite-Menu)
+A visual-novel main menu: where you left off, the deck of characters, dossiers, the diary as a book, the map, letters and the rabbit hole.
+
+<p align="center">
+<img width="1906" height="889" alt="Screenshot_17" src="https://github.com/user-attachments/assets/ea292a6f-4ed2-4265-98e4-244654350be7" />
 </p>
 
 ### 📜 [Chaos & Soul RP Preset](https://github.com/tavern-rpg-suite/CHAOS-SOUL-RP-PRESET) 
