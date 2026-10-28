@@ -2,6 +2,12 @@
 <img width="1717" height="916" alt="Preview-Tavern-RPG-Suite" src="https://github.com/user-attachments/assets/86f2548d-892e-4771-8b81-32143bb4e548" />
 </p>
 
+<p align="center">
+<strong> 🧩 Turns SillyTavern into a living Visual Novel & Life-Sim</strong><br>
+  no clunky dice rolls or spreadsheet combat<br>
+  just a breathing world, interactive rooms, item hunting, character inner thoughts, and deep relationships.<br>
+</p>
+
 # Tavern RPG Suite
 
 A set of interconnected SillyTavern extensions that turn any roleplay into a light, immersive RPG—with a living map, vitals and status effects, gear that wears out, a craftable inventory, a second-model inner monologue, an inline status bar, and even minigames your characters will actually play with you.
