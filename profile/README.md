@@ -14,6 +14,9 @@ A set of interconnected SillyTavern extensions that turn any roleplay into a lig
 
 Built to work **as a set** (they talk to each other through a shared `window.RPG` bridge) but every one also runs perfectly on its own. Fully **bilingual — English & Russian** — with a hand-drawn, papery aesthetic throughout.
 
+✨ Wait — "RPG"? Do I have to roll dice and fight goblins?
+Nope! Despite the name, Tavern RPG Suite is built like an interactive Visual Novel & Life-Sim rather than a crunchy tabletop game. There are no clunky dice rolls or spreadsheet combat here — only tactile world interaction: explore rooms with dynamic day/night backgrounds, search messages for items with a magnifier, peek into characters' hidden thoughts, see what everyone did while you were away, and build deep relationships that the AI actually remembers.
+
 ---
 
 ## 🌱 Start with one of these
